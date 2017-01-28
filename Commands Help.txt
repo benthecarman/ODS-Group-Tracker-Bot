@@ -16,6 +16,11 @@ Commands:
 		
 !view
 	View the details of the current group you are in
+
+!ping (Message)
+	The owner of a group can send a message to all the members of their group
+	Parameters:
+		Message: The message that is sent
 	
 !join (Owner Name)
 	Request to join the group owned by (Owner Name)
