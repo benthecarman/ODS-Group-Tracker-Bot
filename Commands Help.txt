@@ -1,0 +1,63 @@
+Commands:
+
+!create (GroupType) (District)
+	Creates an empty group with the given parameters
+	Parameters:
+		GroupType: the type of group you are creating ie vp, ceo, factory, ect. View GroupType.txt to see all.
+		District: district that the group is in.
+	
+!delete/!del/!disband
+	Disbands the group owned by the person who calls this command
+	
+!list (GroupType)
+	Lists all the groups, if a parameter is given it will only show groups in that GroupType
+	Parameters:
+		GroupType:the type of group you are searching for ie vp, ceo, factory, ect. View GroupType.txt to see all.
+		
+!view
+	View the details of the current group you are in
+	
+!join (Owner Name)
+	Request to join the group owned by (Owner Name)
+	Parameters:
+		Owner Name: The name of owner of the group you are requesting to join
+
+!declineReq (Requestee)
+	Declines a request to join your group
+	Parameters:
+		Requestee: The name of the person you are declining
+		
+!acceptReq (Requestee)
+	Accepts a request to join your group and adds them to your group
+	Parameters:
+		Requestee: The name of the person you are accepting
+		
+!invite/!inv (Invitee)
+	Invites the (Invitee) to join your group
+	Parameters:
+		Invitee: The person you are inviting to your group
+		
+!declineInv (Owner)
+	Declines an invite to join a group
+	Parameters:
+		Owner: The name of the owner you are declining
+		
+!acceptInv (Owner)
+	Accepts an invite to join a group and adds you to the group
+	Parameters:
+		Owner: The name of the person you are accepting
+		
+!merge (Owner)
+	Requests (Owner) to merge groups
+	Parameters:
+		Owner: The name of the owner of the group you are asking to merge with
+		
+!declineMerge (Owner)
+	Declines a request to merge groups with (Owner)
+	Parameters:
+		Owner: The name of the owner of a group you are declining to merge
+		
+!acceptMerge (Owner)
+	Accepts a request to merge groups with (Owner)
+	Parameters:
+		Owner: The name of the owner of a group you are accepting to merge

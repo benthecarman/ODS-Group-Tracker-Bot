@@ -1,0 +1,19 @@
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Debug\ODS Group Tracker Bot.exe.config
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\obj\Debug\ODS Group Tracker Bot.csprojResolveAssemblyReference.cache
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Debug\ODS Group Tracker Bot.exe
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Debug\ODS Group Tracker Bot.pdb
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Debug\Discord.Net.Commands.dll
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Debug\Discord.Net.dll
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Debug\Newtonsoft.Json.dll
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Debug\Nito.AsyncEx.dll
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Debug\RestSharp.dll
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Debug\WebSocket4Net.dll
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Debug\Newtonsoft.Json.xml
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Debug\Nito.AsyncEx.xml
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Debug\RestSharp.xml
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\obj\Debug\ODS Group Tracker Bot.exe
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\obj\Debug\ODS Group Tracker Bot.pdb

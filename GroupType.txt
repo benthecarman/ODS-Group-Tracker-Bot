@@ -1,0 +1,133 @@
+VP:
+	vp
+	v.p
+	v.p.
+
+Factory (Short):
+	sfact
+	facts
+	shortfact
+	factshort
+	factoryshort
+	shortfactory
+	
+Factory (Long):
+	longfactory
+	factorylong
+	longfact
+	factlong
+	factl
+	lfact
+	fact
+	
+Factory (Fatal):
+	fatalfactory
+	factoryfatal
+	ffact
+	factf
+	factfatal
+	fatalfact
+
+CFO:
+	cfo
+	c.f.o
+	c.f.o.
+	
+Bullion Mint:
+	bullionmint
+	mintbullion
+	bull
+	bullion
+	bullmint
+	mintbull
+	
+Dollar Mint:
+	dollarmint
+	mintdollar
+	doll
+	dollar
+	dollmint
+	mintdoll
+	
+Coin Mint:
+	coinmint
+	mintcoin
+	coin
+	
+CJ:
+	cj
+	c.j
+	c.j.
+	
+DA Office A:
+	officea
+	aoffice
+	
+DA Office B:
+	officeb
+	boffice
+	
+DA Office C:
+	officec
+	coffice
+	
+DA Office D:
+	officed
+	doffice
+	
+CEO:
+	ceo
+	c.e.o
+	c.e.o.
+	
+Front Three:
+	frontthree
+	front3
+	front
+	
+Middle Six:
+	middlesix
+	middle6
+	mid6
+	midsix
+	middle
+	mid
+	
+Back Nine:
+	back9
+	backnine
+	back
+	
+CIO:
+	cio
+	c.i.o
+	c.i.o.
+	
+Buildings:
+	format is (story)(type)
+	Example: 1sell, 5cash, 2tech, 3any
+	
+Field Office (Sellbot):
+	sellfo
+	fosell
+	sellfieldoffice
+	fieldofficesell
+	
+Field Office (Lawbot):
+	lawfo
+	folaw
+	lawfieldoffice
+	fieldofficelaw
+	
+Racing:
+	race
+	racing
+	kartracing
+	kart
+	racingkart
+	
+Golf:
+	golf
+	golfing
+
+	
