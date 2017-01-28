@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace DiscordBot1
 {
-    class Program
+    public enum InviteType
     {
-        static void Main(string[] args)
-        {
-            MyBot bot = new MyBot();
-        }
+        GroupInvite,
+        GroupMerge
     }
 }
