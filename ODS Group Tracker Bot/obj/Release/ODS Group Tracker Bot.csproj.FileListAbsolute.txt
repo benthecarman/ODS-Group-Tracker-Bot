@@ -1,0 +1,22 @@
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Release\ODS Group Tracker Bot.exe.config
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Release\ODS Group Tracker Bot.exe.manifest
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Release\ODS Group Tracker Bot.application
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Release\ODS Group Tracker Bot.exe
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Release\ODS Group Tracker Bot.pdb
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Release\Discord.Net.Commands.dll
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Release\Discord.Net.dll
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Release\Newtonsoft.Json.dll
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Release\Nito.AsyncEx.Concurrent.dll
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Release\Nito.AsyncEx.dll
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Release\Nito.AsyncEx.Enlightenment.dll
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Release\RestSharp.dll
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Release\WebSocket4Net.dll
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Release\Newtonsoft.Json.xml
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Release\Nito.AsyncEx.xml
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Release\Nito.AsyncEx.Concurrent.xml
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Release\Nito.AsyncEx.Enlightenment.xml
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\bin\Release\RestSharp.xml
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\obj\Release\ODS Group Tracker Bot.exe.manifest
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\obj\Release\ODS Group Tracker Bot.application
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\obj\Release\ODS Group Tracker Bot.exe
+D:\benth\Documents\GitHub\ODS Group Tracker Bot\ODS Group Tracker Bot\obj\Release\ODS Group Tracker Bot.pdb
