@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+ * Created By: Ben Carman
+ * 
+ */
+using System;
 using System.Globalization;
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -225,11 +229,10 @@ namespace DiscordBot1
                     }
 
                     string id = "";
-                    string userName = "";
 
                     foreach (User user in e.Server.Users)
                     {
-                        userName = user.Name;
+                        string userName = user.Name;
                         if (user.Nickname != null)
                             userName = user.Nickname;
 
